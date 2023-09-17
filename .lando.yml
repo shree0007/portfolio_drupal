@@ -1,0 +1,7 @@
+name: myportfolio
+recipe: drupal10
+config:
+  webroot: web
+services:
+  appservice:
+    type: phpmyadmin
